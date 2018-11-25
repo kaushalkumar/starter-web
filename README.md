@@ -11,6 +11,6 @@ Sample website with plenty of files for demos. The main purpose is learning.
 Added data
 
 ## How to contribute
-Testing it
+Testing it. Please for this repository and issue pull request.
 
 ### Copyright
