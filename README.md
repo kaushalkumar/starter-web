@@ -12,3 +12,5 @@ Added data
 
 ## How to contribute
 Testing it
+
+### Copyright
