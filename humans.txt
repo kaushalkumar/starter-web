@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	Kaushal -- kaushal.nith@gmail.com -- NA
 
 # THANKS
 
